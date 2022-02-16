@@ -1,0 +1,1 @@
+# kubeconform-pre-commit-hook
