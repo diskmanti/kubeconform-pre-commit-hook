@@ -1,0 +1,11 @@
+---
+
+# For use with pre-commit.
+# See usage instructions at https://pre-commit.com
+
+- id: kubeconform
+  name: kubeconform
+  description: This hook runs kubeconform.
+  entry: kubeconform
+  language: yaml
+  types: [file, yaml]
