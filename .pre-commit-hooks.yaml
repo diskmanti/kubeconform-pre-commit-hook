@@ -7,5 +7,5 @@
   name: kubeconform
   description: This hook runs kubeconform.
   entry: kubeconform
-  language: yaml
+  language: script
   types: [file, yaml]
